@@ -1,4 +1,5 @@
 #include "socket.hh"
+#include "FullStackSocket.h"
 
 #include <cstdlib>
 #include <iostream>
@@ -9,11 +10,21 @@ using namespace std;
 
 void get_URL( const string& host, const string& path )
 {
-  cerr << "Function called: get_URL(" << host << ", " << path << ")\n";
-  cerr << "Warning: get_URL() has not been implemented yet.\n";
+    const Address URL_webaddr{host, "http"};
+    FullStackSocket URL_socket{};
+    URL_socket.connect(URL_webaddr);
+    std::ostringstream str_writer{};
+    str_writer << "GET " << path << " HTTP/1.1\r\n"
+               << "Host: " << host << "\r\n"
+               << "Connection: close\r\n\r\n";
+    URL_socket.write(str_writer.str());
+    while (!URL_socket.eof()) {
+        std::cout << URL_socket.read();
+    }
+    URL_socket.close();
 }
 
-int main( int argc, char* argv[] )
+int main(int argc, char* argv[] )
 {
   try {
     if ( argc <= 0 ) {

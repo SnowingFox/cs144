@@ -1,0 +1,6 @@
+# ninja log v5
+25	857	7031840935447344	src/CMakeFiles/minnow_debug.dir/byte_stream.cc.obj	3ea45a88a521b2c8
+33	885	7031840935757329	src/CMakeFiles/minnow_debug.dir/byte_stream_helpers.cc.obj	6096fc182a8cca4c
+19	1266	7031840939577633	util/CMakeFiles/util_debug.dir/random.cc.obj	32a6a3c5c3be0ffa
+22	147	7031841015529386	src/libminnow_debug.a	1992f630937c8fe4
+29	618	7031841020309570	apps/CMakeFiles/webget.dir/webget.cc.obj	c1eea18d2cffe5eb

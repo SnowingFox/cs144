@@ -1,0 +1,177 @@
+[
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o util\\CMakeFiles\\util_debug.dir\\address.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\address.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\address.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o util\\CMakeFiles\\util_debug.dir\\file_descriptor.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\file_descriptor.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\file_descriptor.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o util\\CMakeFiles\\util_debug.dir\\random.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\random.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\random.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o util\\CMakeFiles\\util_debug.dir\\socket.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\socket.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\socket.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o util\\CMakeFiles\\util_sanitized.dir\\address.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\address.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\address.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o util\\CMakeFiles\\util_sanitized.dir\\file_descriptor.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\file_descriptor.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\file_descriptor.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o util\\CMakeFiles\\util_sanitized.dir\\random.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\random.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\random.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o util\\CMakeFiles\\util_sanitized.dir\\socket.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\socket.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\socket.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++20 -o util\\CMakeFiles\\util_optimized.dir\\address.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\address.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\address.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++20 -o util\\CMakeFiles\\util_optimized.dir\\file_descriptor.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\file_descriptor.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\file_descriptor.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++20 -o util\\CMakeFiles\\util_optimized.dir\\random.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\random.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\random.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++20 -o util\\CMakeFiles\\util_optimized.dir\\socket.cc.obj -c D:\\Dev\\cpp\\cs144\\util\\socket.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\util\\socket.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o src\\CMakeFiles\\minnow_debug.dir\\byte_stream.cc.obj -c D:\\Dev\\cpp\\cs144\\src\\byte_stream.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\src\\byte_stream.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o src\\CMakeFiles\\minnow_debug.dir\\byte_stream_helpers.cc.obj -c D:\\Dev\\cpp\\cs144\\src\\byte_stream_helpers.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\src\\byte_stream_helpers.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o src\\CMakeFiles\\minnow_debug.dir\\__\\apps\\FullStackSocket.cpp.obj -c D:\\Dev\\cpp\\cs144\\apps\\FullStackSocket.cpp",
+  "file": "D:\\Dev\\cpp\\cs144\\apps\\FullStackSocket.cpp"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o src\\CMakeFiles\\minnow_sanitized.dir\\byte_stream.cc.obj -c D:\\Dev\\cpp\\cs144\\src\\byte_stream.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\src\\byte_stream.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o src\\CMakeFiles\\minnow_sanitized.dir\\byte_stream_helpers.cc.obj -c D:\\Dev\\cpp\\cs144\\src\\byte_stream_helpers.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\src\\byte_stream_helpers.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++20 -o src\\CMakeFiles\\minnow_optimized.dir\\byte_stream.cc.obj -c D:\\Dev\\cpp\\cs144\\src\\byte_stream.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\src\\byte_stream.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++20 -o src\\CMakeFiles\\minnow_optimized.dir\\byte_stream_helpers.cc.obj -c D:\\Dev\\cpp\\cs144\\src\\byte_stream_helpers.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\src\\byte_stream_helpers.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o tests\\CMakeFiles\\minnow_testing_debug.dir\\common.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\common.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\common.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o tests\\CMakeFiles\\minnow_testing_sanitized.dir\\common.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\common.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\common.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_basics_sanitized.dir\\byte_stream_basics.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_basics.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_basics.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_basics.dir\\byte_stream_basics.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_basics.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_basics.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_capacity_sanitized.dir\\byte_stream_capacity.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_capacity.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_capacity.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_capacity.dir\\byte_stream_capacity.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_capacity.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_capacity.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_one_write_sanitized.dir\\byte_stream_one_write.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_one_write.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_one_write.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_one_write.dir\\byte_stream_one_write.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_one_write.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_one_write.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_two_writes_sanitized.dir\\byte_stream_two_writes.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_two_writes.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_two_writes.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_two_writes.dir\\byte_stream_two_writes.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_two_writes.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_two_writes.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_many_writes_sanitized.dir\\byte_stream_many_writes.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_many_writes.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_many_writes.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_many_writes.dir\\byte_stream_many_writes.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_many_writes.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_many_writes.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -fno-sanitize-recover=all -fsanitize=undefined -fsanitize=address -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_stress_test_sanitized.dir\\byte_stream_stress_test.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_stress_test.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_stress_test.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_stress_test.dir\\byte_stream_stress_test.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_stress_test.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_stress_test.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -O2 -std=gnu++20 -o tests\\CMakeFiles\\byte_stream_speed_test.dir\\byte_stream_speed_test.cc.obj -c D:\\Dev\\cpp\\cs144\\tests\\byte_stream_speed_test.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\tests\\byte_stream_speed_test.cc"
+},
+{
+  "directory": "D:/Dev/cpp/cs144/cmake-build-debug",
+  "command": "D:\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -ID:/Dev/cpp/cs144/util -ID:/Dev/cpp/cs144/src  -Wall -Wpedantic -Wextra -Weffc++ -Werror -Wshadow -Wpointer-arith -Wcast-qual -Wformat=2 -Wno-unqualified-std-cast-call -g -fdiagnostics-color=always -std=gnu++20 -o apps\\CMakeFiles\\webget.dir\\webget.cc.obj -c D:\\Dev\\cpp\\cs144\\apps\\webget.cc",
+  "file": "D:\\Dev\\cpp\\cs144\\apps\\webget.cc"
+}
+]
